@@ -1,6 +1,6 @@
 # Cash Flow Optimizer: Efficient Payroll Denomination Breakdown
 
-![Cash Flow Optimizer Banner](images\banner_2.jpg)
+![Cash Flow Optimizer Banner](images/banner_2.jpg)
 
 ## Introduction
 
